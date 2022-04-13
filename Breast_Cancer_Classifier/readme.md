@@ -132,6 +132,6 @@ open an issue with the tag "enhancement". Don't forget to give the project a sta
 
 **Syed Ibtehaj Raza, Rizvi**
 
-[![Gmail Badge](https://img.shields.io/badge/-mailto:ibtahajraza@gmail.com-A9A9A9?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:mailto:ibtahajraza@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ibtahajraza@gmail.com-A9A9A9?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:ibtahajraza@gmail.com)
 
 <p align="right">(<a href="#top">👆🏻</a>)</p>
